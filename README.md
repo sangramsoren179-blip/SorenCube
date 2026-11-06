@@ -12,13 +12,17 @@ SorenCube is designed to provide an enjoyable and interactive Rubik's Cube solvi
 
 ```text
 SorenCube/
+├── .gitignore
 └── README.md
 ```
 
 ## Git Status
 
 ### Added
-- `README.md` — Created initial project documentation.
+- `.gitignore` — Added rules to exclude private files and folders from Git tracking.
+
+### Modified
+- `README.md` — Updated project structure and documentation.
 
 ## Features
 
